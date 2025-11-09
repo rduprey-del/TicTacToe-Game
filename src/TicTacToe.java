@@ -6,3 +6,4 @@ public class TicTacToe {
 }
 // temporary staging demo
 // temporary unstaged demo
+// TODO: Add colored output for X and O
